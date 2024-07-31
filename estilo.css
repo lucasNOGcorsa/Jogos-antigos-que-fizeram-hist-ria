@@ -47,6 +47,7 @@ h3{
 .img{
     width: 1000px;
     box-shadow: 5px 5px #00c3ff;
+    border-radius: 20px;
 }
 
 .botao{
