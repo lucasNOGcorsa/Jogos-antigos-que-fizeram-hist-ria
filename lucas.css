@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Noto+Sans+JP:wght@100..900&family=Noto+Serif+Khitan+Small+Script&display=swap');
+h1{
+    font-family: Josefin Sans, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h3{
+    font-family: Josefin Sans, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.nog{
+    font-family: Josefin Sans, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.tigre{
+    
+    width: 700px;
+    box-shadow: 5px 5px black;
+    border-radius: 20px;
+}
+
+.pokemon{
+    text-align: center;
+    border-radius: 20px;
+}
+
+.tudao{
+    text-align: center;
+    border-radius: 20px;
+}
+
+.camarote{
+    text-align: center;
+}
